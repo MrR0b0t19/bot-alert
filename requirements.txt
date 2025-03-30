@@ -1,0 +1,4 @@
+kivy
+plyer
+geopy
+python-telegram-bot
