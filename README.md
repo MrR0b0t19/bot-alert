@@ -1,6 +1,6 @@
 # 📱 Bot de Emergencia para Android
 
-Esta app permite enviar alertas con ubicación a un grupo de Telegram, ya sea presionando un botón de emergencia o mediante el acelerómetro. A continuación, te explicamos cómo compilarla e instalarla en tu dispositivo Android.
+Esta app permite enviar alertas con ubicación a un grupo de Telegram, ya sea presionando un botón de emergencia o mediante el acelerómetro. A continuación, te explico cómo compilarla e instalarla en tu dispositivo Android.
 
 ---
 
